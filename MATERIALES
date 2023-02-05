@@ -1,0 +1,20 @@
+-----------------------------------------------------------
+Lista de materiales para la construción del brazo robótico:
+-----------------------------------------------------------
+    
+   ---------------------------
+    Construcción del cuerpo:
+   ---------------------------
+      - Palos de madera planos (para hacerlo de peso liviano).
+      - Silicona caliente // Pegamento de contacto.
+     
+   --------------------------- 
+    Componentes electrónicos:
+   ---------------------------
+      - Arduino Uno o similar.
+      - x3 Potenciometros de 10 kohm.
+      - x1 Rotatory Ecoder (Para controlar el motor paso a paso).
+      - x1 Motor 28BYJ-48 con controlador.
+      - Protoboard.
+      - Jumpers o cables de conexión.
+      - Fuente de alimentación.
