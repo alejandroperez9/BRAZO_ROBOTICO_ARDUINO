@@ -1,0 +1,2 @@
+A PARTE DE LA LIBRERÍA <Stepper.h>, hay que añadir la librería <Servo.h>, la cual se puede
+descargar desde el IDE de Arduino.
